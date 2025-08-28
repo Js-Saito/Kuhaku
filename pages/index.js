@@ -1,10 +1,7 @@
-import logo from "../src/logo.png";
-
 function Home() {
   return (
     <div>
-      <h1>Kuhaku</h1>
-      <img src={logo} />
+      <img src="https://i.imgur.com/NyoIVKc.png" />
     </div>
   );
 }
